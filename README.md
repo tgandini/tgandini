@@ -23,18 +23,22 @@ My tech stack includes:
 
 ### Professional Contributions (Corporate GitHub)
 
-> Most of my professional work has been done under a corporate GitHub account, which is not publicly accessible due to company policies. Below is a summary of my contributions over the past year:
+>Most of my professional work has been done under a corporate GitHub account, which is not publicly accessible due to company policies. Below is a summary of my contributions over the past year:
 
 - **52 commits** to internal projects  
 - Over **10 pull requests** reviewed and/or submitted  
 - Active involvement in backend development and internal tooling  
 - Collaboration following CI/CD workflows and best development practices
 
-📷 Here's a snapshot of the contribution graph from my corporate account:
+### 📷 Here's a snapshot of the contribution graph from my corporate account:
+
+<details>
+ <summary></summary>
 
 ![Contribution graph](img/pic_github.jpg)
 
-> I'm happy to provide more context or specific examples of the work I’ve done (within the boundaries of what I can share).
+</details>
+I'm happy to provide more context or specific examples of the work I’ve done (within the boundaries of what I can share).
 
 ### 🤝🏻 Contact:
 📬 Email: gandinitomas@gmail.com<br />
